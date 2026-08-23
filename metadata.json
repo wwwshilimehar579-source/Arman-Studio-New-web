@@ -1,0 +1,6 @@
+{
+  "name": "Arman Studio - 3D Cinematic Portfolio",
+  "description": "A cinematic 3D rotating carousel photography portfolio for Arman Studio featuring wedding, product, fashion model, and movie shoots with touch gestures and lazy loading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
